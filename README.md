@@ -114,6 +114,15 @@ Any climate, ocean, ecosystem, infrastructure, or AI-governance proposal should 
 - misuse resistance
 - long-term monitoring
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Framework
