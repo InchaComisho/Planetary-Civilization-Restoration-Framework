@@ -2,6 +2,8 @@
 
 [日本語版 README_ja.md](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Abstract
 
 **Planetary Civilization Restoration Framework** is a master index and navigation map for public repositories created by InchaComisho.
