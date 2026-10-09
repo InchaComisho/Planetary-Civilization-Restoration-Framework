@@ -1,5 +1,7 @@
 # Repository Map
 
+[日本語版はこちら / Japanese version](repository-map_ja.md)
+
 This map organizes public InchaComisho repositories by theme and by type of work.
 
 Labels used in this map:

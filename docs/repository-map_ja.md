@@ -1,5 +1,7 @@
 # リポジトリマップ
 
+[English Version](repository-map.md)
+
 このマップは、InchaComisho の公開リポジトリをテーマ別・成果物の種類別に整理するものです。
 
 このマップで使うラベル:
